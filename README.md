@@ -7,9 +7,11 @@ All credits goes to Slim
 
 install
 
+```
 git clone https://github.com/fruchttiger00x0/FrankenScript.git
 cd FrankenScript
 chmod +x FrankenScript.sh
 ./FrankenScript.sh
+```
 
 .. it's alive
